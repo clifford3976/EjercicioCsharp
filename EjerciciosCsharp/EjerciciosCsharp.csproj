@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo12\ejercicios2.cs" />
+    <Compile Include="Capitulo12\ejercicios3.cs" />
     <Compile Include="Capitulo9\ejercicios3.cs" />
     <Compile Include="Capitulo9\ejercicios1.cs" />
     <Compile Include="Capitulo9\ejercicios4.cs" />
