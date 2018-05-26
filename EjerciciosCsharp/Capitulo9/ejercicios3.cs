@@ -42,11 +42,11 @@ namespace EjerciciosCsharp.Capitulo9
             Dueño Du;
 
             Console.Clear();
-            Du.NombreDueño = "Edwin";
-            Du.EdadDueño = 19;
-            Du.Perro.NombreMascota = "cat";
-            Du.Perro.TipoMascota = "dog";
-            Du.Perro.EdadMascota = 10;
+            Du.NombreDueño = "Clifford";
+            Du.EdadDueño = 22;
+            Du.Perro.NombreMascota = "caballo";
+            Du.Perro.TipoMascota = "perro";
+            Du.Perro.EdadMascota = 20;
             Console.WriteLine("Nombre del Dueño: " + Du.NombreDueño + "\nEdad del Dueño: " + Du.EdadDueño + "\nNombre de la Mascota: " + Du.Perro.NombreMascota + "\nTipo de Mascota: " + Du.Perro.TipoMascota + "\nEdad de La Mascota: " + Du.Perro.TipoMascota);
 
             Console.ReadKey();

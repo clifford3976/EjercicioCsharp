@@ -26,9 +26,9 @@ namespace EjerciciosCsharp.Capitulo9
             ProductosMercado PM;
 
             Console.Clear();
-            PM.CodigoDeBarras = 00092;
-            PM.NombreProducto = "PAN";
-            PM.PrecioProducto = 50;
+            PM.CodigoDeBarras = 09594978;
+            PM.NombreProducto = "JUGO";
+            PM.PrecioProducto = 100;
             Console.WriteLine("Codigo de Barras: " + PM.CodigoDeBarras + "\nNombre del Producto: "
                               + PM.NombreProducto + "\nPrecio del Producto: " + PM.PrecioProducto);
             Console.ReadKey();
